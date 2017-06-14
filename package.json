@@ -1,0 +1,21 @@
+{
+  "name": "boobee",
+  "version": "1.0.0",
+  "description": "Automatic reverse Entity Relationship Diagram from Data Definition Language",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Ineeza/boobee",
+  "keywords": [
+    "ineeza",
+    "database",
+    "dsl",
+    "erd"
+  ],
+  "author": "Ineeza Inc",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
