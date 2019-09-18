@@ -16,6 +16,6 @@
   "author": "Ineeza Inc",
   "license": "MPL-2.0",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "~1.8.8"
   }
 }
